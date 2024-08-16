@@ -21,3 +21,5 @@ El objetivo principal de este proyecto es comprender y analizar los datos recopi
 2. **Realizar limpieza de datos**: Es esencial limpiar el conjunto de datos para eliminar inconsistencias, datos faltantes y posibles errores, garantizando así la precisión de nuestro análisis.
    
 3. **Análisis de las gráficas**: Utilizaremos herramientas de visualización de datos para crear gráficos que nos permitan interpretar patrones, tendencias y relaciones dentro del conjunto de datos.
+
+Proyecto final para la certificacion de Analisis y Vizualizacion de datos ofrecido por Talento Tech en colaboracion con MinTic.
